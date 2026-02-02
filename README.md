@@ -10,7 +10,7 @@ _Function that receives a list of strings and returns a structured dictionary_
 _Function that computes x^y given a list of pairs (x, y)_
 
 ## Question 4 
-_Function that sorts a list of random numbers between 0 and 1. Then, finds all indices where the list value is greater than or equal to x_
+_Function that sorts a list of random numbers between 0 and 1. Then, finds all indices where the list value is greater than or equal to a random target value x_
 
 ## Question 5 
 _Function that compares the area of 2 circles given their radii_
