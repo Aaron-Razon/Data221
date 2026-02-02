@@ -13,7 +13,7 @@ _Defined a function that computes x^y given a list of pairs (x, y)_
 _Defined a function that sorts a list of random numbers between 0 and 1_
 
 ## Question 5 
-_Defined a function that compares the area of 2 circles given their radii _
+_Defined a function that compares the area of 2 circles given their radii_
 
 ## Question 6 
 _Defined a function that receives a list of numbers and returns a dictionary for distribution analysis_
