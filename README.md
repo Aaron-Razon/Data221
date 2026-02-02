@@ -4,7 +4,7 @@
  _Multiplication loop that multiplies consecutive integers until it exceeds the threshold value_
 
 ## Question 2 
-_Function that receives a list of strings and returns a structured dictionary_
+_Function that receives a list of strings. Deternines the length of the string and whether the string is even or odd. Then, returns a structured dictionary_
 
 ## Question 3 
 _Function that computes x^y given a list of pairs (x, y)_
@@ -13,7 +13,7 @@ _Function that computes x^y given a list of pairs (x, y)_
 _Function that sorts a list of random numbers between 0 and 1. Then, finds all indices where the list value is greater than or equal to a random target value x_
 
 ## Question 5 
-_Function that compares the area of 2 circles given their radii_
+_Function that compares the area of 2 circles given their radii. Returns the percentage of the larger circle’s area that can be covered by the smaller circle._
 
 ## Question 6 
 _Function that receives a list of numbers and returns a dictionary for distribution analysis_
