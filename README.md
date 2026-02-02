@@ -1,28 +1,28 @@
 # Data221
 
 ## Question 1 
- _Multiplication loop that multiplies consecutive integers until it exceeds the threshold value._
+_Multiplies consecutive integers in a loop until the running product exceeds a specified threshold._
 
 ## Question 2 
-_Function that receives a list of strings. Deternines the length of the string and whether the string is even or odd. Then, returns a structured dictionary._
+_Analyzes strings in a list by length and parity (even/odd) and returns a structured dictionary of results._
 
 ## Question 3 
-_Function that computes x^y given a list of pairs (x, y)._
+_Computes x^y for each (x, y) pair in a list and prints the results._
 
 ## Question 4 
-_Function that sorts a list of random numbers between 0 and 1. Then, finds all indices where the list value is greater than or equal to a random target value x._
+_Generates and sorts random numbers (0–1), chooses a random target x, finds indices where values are >= x, and prints the sorted list, x, and the first matching index._
 
 ## Question 5 
-_Function that compares the area of 2 circles given their radii. Returns the percentage of the larger circle’s area that can be covered by the smaller circle._
+_Compares two circle areas from their radii and returns what percentage of the larger circle’s area the smaller circle can cover._
 
 ## Question 6 
-_Function that receives a list of numbers and returns a dictionary for distribution analysis._
+_Takes a list of numbers and returns a sorted dictionary mapping each unique value to the cumulative percentage of elements less than or equal to it._
 
 ## Question 7 
-_Function that converts seconds since midnight to hours, mins, secondss, AM/PM._ 
+_Converts seconds since midnight into a readable 12-hour time format (hours, minutes, seconds) and labels it as AM or PM._
 
 ## Question 8 
-_Using the Pandas library, this program creates a dataframe from provided the column data._
+_Using Pandas, creates a DataFrame from given column data and adds a derived column computed as Column A × Column B._
 
 
 
